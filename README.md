@@ -3,25 +3,25 @@ this project is about creating a live speech to text and save it in a "text.txt"
 
 
 
-##transcript.py:
+## transcript.py:
  Contains the code that will turn the speech into text and save it in "text.txt"
  
  
-##TextTpSpeech.mp3:
+## TextTpSpeech.mp3:
  Contains the code that will turn the text into specch and save the voice of the assistant in "speech.mp3"
  
  
-##Speech.cfg:
+## Speech.cfg:
  Contains the reagion and the API key 
  
  
- ##text.txt:
+## text.txt:
  saves the converted text 
  
  
- ##Speech.mp3:
+## Speech.mp3:
  saves the converted text from " text.txt" into speech by an assisatnt 
  
  
-  ##example.mov: a simple example of the project.
+## example.mov: a simple example of the project.
 
